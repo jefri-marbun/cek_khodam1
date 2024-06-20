@@ -21,7 +21,10 @@ const KhodamCheck = () => {
         'Abe Cekut',
         'Papi Abe',
         'Ganta',
-        'Willi the kid'
+        'Willi the kid',
+        'Jeje Slebew',
+        'Bonge SCBD',
+        'Fajar Sadboy'
         
     ];
 
