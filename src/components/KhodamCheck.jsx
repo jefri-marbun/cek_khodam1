@@ -11,9 +11,8 @@ const KhodamCheck = () => {
     const khodamList = [
         
         
-        'RP Korea',
+        'Mba Mba Ava Korea',
         'Reja Arap',
-        'Anak RP',
         'Ava Wibu',
         'Gojo Sitorus',
         'AAN JAYA',
