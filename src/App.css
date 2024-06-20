@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/11/03/tiger-7925131_1280jpg-20231103074114.jpg') no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+}
