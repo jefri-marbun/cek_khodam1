@@ -40,6 +40,7 @@ const KhodamCheck = () => {
             <KhodamInput value={name} onChange={(e) => setName(e.target.value)} />
             <KhodamButton onClick={handleCheck} />
             <KhodamList khodams={khodams} />
+            <footer className="powered-by">Powered by Jep</footer>
         </div>
     );
 };
